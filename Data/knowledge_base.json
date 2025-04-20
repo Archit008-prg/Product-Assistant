@@ -1,0 +1,11 @@
+{
+    "Smartphones": {
+        "overheating": "Please ensure the phone is not exposed to heat or using camera in direct sunlight. Close background apps.",
+        "solutions": [
+            "Reset the camera app",
+            "Clear cache and update the OS",
+            "Factory reset if persistent"
+        ]
+    }
+}
+  
